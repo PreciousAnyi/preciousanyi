@@ -9,13 +9,13 @@
 
 - 🔭 I’m currently working on **RedCard**
 
-- 🌱 I’m currently learning **Android**
+- 🌱 And I’m currently learning **Android**
 
 - 💬 Ask me about **Android, Kotlin, Dart**
 
-- 📫 How to reach me **preciousifeanyi.api@gmail.com**
+- 📫 And feel free to reach me at **preciousifeanyi.api@gmail.com**
 
-- ⚡ Fun fact **Lover of Netflix**
+- ⚡ Fun fact **I'm a lover of nature**
 
 <h3 align="left">Connect with me:</h3>
 
