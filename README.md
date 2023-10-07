@@ -3,7 +3,7 @@
 
 <h3 align="center">A Software Engineering Student At ALX</h3>
 
-<img align="right" width="400" alt="coding" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqdas29w9nPrpAzGAq_50xEHyBiOq9DAMekg&usqp=CAU">
+<img align="right" width="400" alt="coding" src="https://img.freepik.com/premium-photo/portrait-successful-programmer-game-developer-coder-guy-uses-computer-laptop-work-game-design-hacker-boy-generative-ai-cyber-gamer_117038-7605.jpg">
 
 <p align="left"> <a href="https://twitter.com/precious_anyi" target="blank"><img src="https://img.shields.io/twitter/follow/precious_anyi?logo=twitter&style=for-the-badge" alt="precious_anyi" /></a> </p>
 
