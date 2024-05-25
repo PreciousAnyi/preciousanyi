@@ -44,5 +44,5 @@ src="https://img.shields.io/twitter/follow/codenamepresh?logo=twitter&style=for-
 <h2 align="left">Support:</h2>
 <p><a href="https://buymeacoffee.com/preciousifeanyi"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="iamnaeto" /></a></p><br><br><br><br><br>
 
-![image](https://photos.app.goo.gl/pHFFvnSH3TaWDGEz7)
+![image](https://github.com/PreciousAnyi/preciousanyi/blob/main/Precious%20ifeanyi.png)
 
