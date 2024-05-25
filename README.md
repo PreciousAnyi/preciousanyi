@@ -1,33 +1,48 @@
-<h1 align="center">Hi 👋, I'm Precious Ifeanyi</h1>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<h3 align="center">A Software Engineering Student At ALX</h3>
+# [![TypingSVG](https://readme-typing-svg.demolab.com?lines=Hey!+You+Are+Welcome+To+My+Profile;My+Name+Is+LORDWILL;I+Am+Passionate+About+Coding;I+Learn+By+Doing)](https://git.io/typing-svg)
 
-<img align="right" width="400" alt="coding" src="https://img.freepik.com/premium-photo/portrait-successful-programmer-game-developer-coder-guy-uses-computer-laptop-work-game-design-hacker-boy-generative-ai-cyber-gamer_117038-7605.jpg">
+<h1 align="center">
+Hi, I'm Precious Ifeanyi. <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">
+</h1>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<p align="left"> <a href="https://twitter.com/precious_anyi" target="blank"><img src="https://img.shields.io/twitter/follow/precious_anyi?logo=twitter&style=for-the-badge" alt="precious_anyi" /></a> </p>
+### I am a Software Engineering student at ALX. `I learn by doing....`
 
-- 🔭 I’m currently working on **RedCard**
+![](https://komarev.com/ghpvc/?username=preciousanyi&style=for-the-badge&color=blue&labelColor=000000)<a href="https://www.github.com/lordwill1" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/lordwill1?logo=github&style=for-the-badge&color=0C7DBE&labelColor=000000" /></a><a href="https://www.twitter.com/iamlordwill" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitter/follow/iamlordwill?logo=twitter&style=for-the-badge&color=0C7DBE&labelColor=000000"
+/></a>[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://lordwill.netlify.app/)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+2348162887537)
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-- 🌱 And I’m currently learning **Software Engineering**
+- #### 🔭 I’m currently working on my coding skills.
+- #### 👯 I’m open to collaborate on Software Engineering projects.
 
-- 💬 Ask me about **HTML, CSS, C, Javascript**
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-- 📫 And feel free to reach me at **preciousifeanyi.api@gmail.com**
+# Contact 
+* [LinkedIn](https://www.linkedin.com/in/godswill-kalu-358750221/)
+* [Twitter](https://twitter.com/IamLordwill)
+* [Email](mailto:messagelordwill@gmail.com)
 
-- ⚡ Fun fact **I'm a lover of nature**
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<h3 align="left">Connect with me:</h3>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lordwill1&layout=compact)](https://github.com/Lordwill1/github-readme-stats)
 
-<p align="left">
+## QUESTION AND ANSWER WEBSITE 
+* [Stackoverflow](https://Stackoverflow.com/)
+* [GitHub](https://github.com/)
+* [Quora](https://quora.com/)
+* [Reddit](https://reddit.com/)
+* [Stack exchange](https://Stackexchange.com/)
+* [Code project](https://codeproject.com/)
+* [Programmers heaven](https://programmersheaven.com/)
 
-<a href="https://twitter.com/precious_anyi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="precious_anyi" height="30" width="40" /></a>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lordwill1&show_icons=true&theme=radical)
 
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/precious-ifeanyi-anuforo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/precious-ifeanyi-anuforo" height="30" width="40" /></a>
+<h2 align="left">Support:</h2>
+<p><a href="https://www.buymeacoffee.com/lordwill"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="iamnaeto" /></a></p><br><br><br><br><br>
 
-</p>
+![image](https://user-images.githubusercontent.com/105258746/188775779-6bbc07c8-df8d-4a80-839b-674ea51c5adc.png)
 
-<h3 align="left">Languages and Tools:</h3>
-
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=preciousanyi&show_icons=true&locale=en&layout=compact" alt="preciousanyi" /></p>
