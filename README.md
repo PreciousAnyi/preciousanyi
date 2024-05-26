@@ -12,7 +12,7 @@ Hi, I'm Precious Ifeanyi. <img src="https://raw.githubusercontent.com/MartinHein
 ![](https://komarev.com/ghpvc/?username=preciousanyi&style=for-the-badge&color=blue&labelColor=000000)<a href="https://www.github.com/preciousanyi" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/preciousanyi?logo=github&style=for-the-badge&color=0C7DBE&labelColor=000000" /></a><a href="https://www.twitter.com/codenamepresh" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/codenamepresh?logo=twitter&style=for-the-badge&color=0C7DBE&labelColor=000000"
-/></a>[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://lordwill.netlify.app/)
+/></a>[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+2348146424033)
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
