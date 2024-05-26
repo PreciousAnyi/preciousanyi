@@ -28,16 +28,8 @@ src="https://img.shields.io/twitter/follow/codenamepresh?logo=twitter&style=for-
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=preciousanyi&layout=compact)](https://github.com/Lordwill1/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=preciousanyi&layout=compact)](https://github.com/preciousanyi/github-readme-stats)
 
-## QUESTION AND ANSWER WEBSITE 
-* [Stackoverflow](https://Stackoverflow.com/)
-* [GitHub](https://github.com/)
-* [Quora](https://quora.com/)
-* [Reddit](https://reddit.com/)
-* [Stack exchange](https://Stackexchange.com/)
-* [Code project](https://codeproject.com/)
-* [Programmers heaven](https://programmersheaven.com/)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=preciousanyi&show_icons=true&theme=radical)
 
