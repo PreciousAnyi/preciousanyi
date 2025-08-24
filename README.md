@@ -7,7 +7,8 @@ Hi, I'm Precious Ifeanyi. <img src="https://raw.githubusercontent.com/MartinHein
 </h1>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-### I am a Software Engineering student at ALX. `I learn by doing....`
+### I am a fullstack web developer. MongoDb, Express, ReactJs, VueJs, Nodejs, NextJs, Nuxtjs, GraphQL. 
+### `I learn by doing....`
 
 ![](https://komarev.com/ghpvc/?username=preciousanyi&style=for-the-badge&color=blue&labelColor=000000)<a href="https://www.github.com/preciousanyi" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/preciousanyi?logo=github&style=for-the-badge&color=0C7DBE&labelColor=000000" /></a><a href="https://www.twitter.com/codenamepresh" target="_blank" rel="noreferrer"><img
